@@ -1,0 +1,121 @@
+body{
+    background-image: url(spa2.jpg);
+    color: aliceblue;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1{
+    font-family: papyrus;
+    padding-top: 15px;
+    font-weight: bold;
+}
+span{
+    font-size: 13px;
+    margin-left: 30px;
+    padding-right: 50px;
+    text-decoration: overline;
+    text-decoration-color: rgb(233, 80, 80);
+}
+.name{
+    margin: 60px 40px 0 0;
+}
+.name p{
+    display: inline;
+    margin-right: 440px;
+}
+.name input{
+    width: 15rem;
+    margin-left: 13px;
+}
+.flname #fname{
+    font-size: 12px;
+    padding-right: 198px;
+}
+.flname #lname{
+    font-size: 12px;
+    padding-right: 168px;
+}
+.emailphone{
+    margin: 35px 32px 0 0;
+    display: block;
+}
+.emailphone input{
+    width: 495px;
+    margin-top: 0px;
+}
+.emailphone label{
+    margin-top: 5px;
+    padding-right: 449px;
+}
+.email{
+    margin-top: 20px;
+}
+.address{
+    margin: 25px 32px 0 0;
+}
+.address p{
+    display: inline;
+    padding: 0 438px 0 0;
+    margin: 30px 0 auto;
+}
+.address input{
+    width: 495px;
+    margin: 0px 0 auto;
+}
+#line2{
+    margin-top: 20px;
+}
+.address label{
+    font-size: 12px;
+    margin-right: 420px;
+}
+.city{
+    margin: 30px 40px 0 0;
+}
+.city input{
+    width: 15rem;
+    margin-left: 13px;
+}
+.city #city{
+    font-size: 12px;
+    margin-right: 240px;
+}
+.city #state{
+    font-size: 12px;
+    padding-right: 110px;
+}
+.country{
+    margin-top: 10px;
+}
+.country select{
+    width: 15rem;
+    /* margin-left: 50px; */
+    /* padding-right: 300px; */
+    position: absolute;
+    left: 670px;
+}
+.country input{
+    width: 239px;
+    margin-right: 281px;
+    /* padding-right: 200px; */
+}
+.country label{
+    font-size: 12px;
+}
+.country #postal{
+    margin-right: 435px;
+}
+.country #cou{
+    position: absolute;
+    left: 680px;
+}
+button{
+    border: none;
+    border-radius: 20px;
+    width: 150px;
+    margin-top: 30px;
+    height: 30px;
+    color: white;
+    background-color: rgb(163, 66, 66);
+}
